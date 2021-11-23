@@ -1,0 +1,60 @@
+body{
+    background-color:#2bc2d9;
+    
+}
+
+h1{
+    font-family: Courier New, Monospace;
+    color:yellow;
+    text-align: center;
+}
+
+section{
+    background-color: white;
+    height:325px;
+    width:20%;
+    position: relative;
+    
+}
+
+h1{
+   font-size: 85px; 
+   text-align: center;
+}
+
+h2{
+    font-size: 50px;
+    color: yellow;
+    
+
+}
+
+div{
+    
+}
+
+p{
+   position: relative; left: 320px; bottom: 330px;
+    inline-size: 250px;
+    font-size: 20px;
+    color: white;
+}
+
+img{
+   
+}
+
+button{
+    background-color:red;
+    font-size: 30px;
+    margin-left: 75% ;
+    position: relative; bottom: 600px;
+  border: none;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  border-radius: 12px;
+}
+
+
